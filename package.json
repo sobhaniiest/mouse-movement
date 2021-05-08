@@ -1,0 +1,19 @@
+{
+  "name": "mouse-movement",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sobhaniiest/mouse-movement.git"
+  },
+  "author": "Sobhan Mondal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sobhaniiest/mouse-movement/issues"
+  },
+  "homepage": "https://github.com/sobhaniiest/mouse-movement#readme"
+}
